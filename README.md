@@ -37,4 +37,4 @@ I want to transform the mesa-examples repository into a community-driven gallery
 https://github.com/Vanya-kapoor/GSoC-learning-space/tree/main/models/job_market
 
 ## 📄 Full Proposal
-[https://github.com/Vanya-kapoor/Gsoc-mesa-2026/blob/main/Vanya_Kapoor_mesa%20(1).pdf]
+[https://github.com/Vanya-kapoor/Gsoc-mesa-2026/blob/main/Vanya_Kapoor_mesa%20(2).pdf]
